@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch03
+END
+lookup_dvds.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch03/lookup_dvds.py
+END
+dvd.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch03/dvd.py
+END
+delete_dvd.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch03/delete_dvd.py
+END
+csvreport_dvd.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch03/csvreport_dvd.py
+END
+modify_dvd.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch03/modify_dvd.py
+END
+add_dvd.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch03/add_dvd.py
+END

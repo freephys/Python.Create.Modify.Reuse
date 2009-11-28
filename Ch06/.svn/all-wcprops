@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch06
+END
+test_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch06/test_manager.py
+END
+test_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch06/test_list.py
+END
+test_results.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch06/test_results.py
+END
+test_html.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch06/test_html.py
+END
+test_run.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch06/test_run.py
+END

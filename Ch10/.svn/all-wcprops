@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch10
+END
+snapshothelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch10/snapshothelper.py
+END
+testsnapshothelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch10/testsnapshothelper.py
+END
+doctestexample.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch10/doctestexample.py
+END
+doctestexample2.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch10/doctestexample2.py
+END
+doctestsnapshothelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch10/doctestsnapshothelper.py
+END
+pdbtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch10/pdbtest.py
+END

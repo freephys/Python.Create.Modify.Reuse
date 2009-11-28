@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch04
+END
+webperf.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch04/webperf.py
+END
+textfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch04/textfile.txt
+END
+webclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch04/webclient.py
+END
+binaryfile.exe
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch04/binaryfile.exe
+END
+webserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/22/Create-Modify-Reuse/Ch04/webserver.py
+END
